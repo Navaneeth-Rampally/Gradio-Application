@@ -13,9 +13,9 @@ git clone https://github.com/your-username/agentic-ai-gradio.git cd agentic-ai-g
 
 **2. Create a Virtual Environment**
 It’s best practice to isolate dependencies:
-# Create venv python -m venv venv 
-# Activate venv (Linux/Mac) source venv/bin/activate 
-# Activate venv (Windows) venv\Scripts\activate 
+--> Create venv python -m venv venv 
+--> Activate venv (Linux/Mac) source venv/bin/activate 
+--> Activate venv (Windows) venv\Scripts\activate 
 
 **3. Install Dependencies**
 Install required libraries:
